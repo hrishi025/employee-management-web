@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/employee-management-web/static/css/main.8998d32d.chunk.css",
+    "main.js": "/employee-management-web/static/js/main.0cd21996.chunk.js",
+    "main.js.map": "/employee-management-web/static/js/main.0cd21996.chunk.js.map",
+    "runtime-main.js": "/employee-management-web/static/js/runtime-main.655d9d1f.js",
+    "runtime-main.js.map": "/employee-management-web/static/js/runtime-main.655d9d1f.js.map",
+    "static/js/2.c299a7ee.chunk.js": "/employee-management-web/static/js/2.c299a7ee.chunk.js",
+    "static/js/2.c299a7ee.chunk.js.map": "/employee-management-web/static/js/2.c299a7ee.chunk.js.map",
+    "static/js/3.9f7a2b1f.chunk.js": "/employee-management-web/static/js/3.9f7a2b1f.chunk.js",
+    "static/js/3.9f7a2b1f.chunk.js.map": "/employee-management-web/static/js/3.9f7a2b1f.chunk.js.map",
+    "index.html": "/employee-management-web/index.html",
+    "static/css/main.8998d32d.chunk.css.map": "/employee-management-web/static/css/main.8998d32d.chunk.css.map",
+    "static/js/2.c299a7ee.chunk.js.LICENSE.txt": "/employee-management-web/static/js/2.c299a7ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.655d9d1f.js",
+    "static/js/2.c299a7ee.chunk.js",
+    "static/css/main.8998d32d.chunk.css",
+    "static/js/main.0cd21996.chunk.js"
+  ]
+}
